@@ -1,0 +1,21 @@
+bookID,title,authors,average_rating,isbn,language_code,  num_pages,ratings_count,text_reviews_count,publication_date,publisher
+1, Harry Potter and the Half-Blood Prince, J.K. Rowling/Mary GrandPré,4.57,439785960,eng,652,2095690,27591,9/16/2006,Scholastic Inc.
+2, Harry Potter and the Order of the Phoenix, J.K. Rowling/Mary GrandPré,4.49,439358078,eng,870,2153167,29221,9/01/2004,Scholastic Inc.
+3, Harry Potter and the Chamber of Secrets, J.K. Rowling,4.42,439554896,eng,352,6333,244,11/01/2003,Scholastic
+4, Harry Potter and the Prisoner of Azkaban, J.K. Rowling/Mary GrandPré,4.56,43965548,eng,435,2339585,36325,5/01/2004,Scholastic Inc.
+5, Harry Potter Boxed Set, J.K. Rowling/Mary GrandPré,4.78,439682584,eng,2690,41428,164,9/13/2004,Scholastic
+6, Harry Potter Collection, J.K. Rowling,4.73,439827604,eng,3342,28242,808,9/12/2005,Scholastic
+7, The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story, Douglas Adams,4.38,517226952,eng,815,3628,254,11/01/2005,Gramercy Books
+8, The Ultimate Hitchhiker's Guide to the Galaxy, Douglas Adams,4.38,345453743,eng,815,249558,4080,4/30/2002,Del Rey Books
+9, The Hitchhiker's Guide to the Galaxy, Douglas Adams,4.22,1400052920,eng,215,4930,460,8/03/2004,Crown
+10, The Hitchhiker's Guide to the Galaxy, Douglas Adams/Stephen Fry,4.22,739322206,eng,6,1266,253,3/23/2005,Random House Audio
+11, The Ultimate Hitchhiker's Guide, Douglas Adams,4.38,517149257,eng,815,2877,195,1/17/1996,Wings Books
+12, A Short History of Nearly Everything, Bill Bryson,4.21,76790818,eng,544,248558,9396,9/14/2004,Broadway Books
+13, Bill Bryson's African Diary, Bill Bryson,3.44,767915062,eng,55,7270,499,12/03/2002,Broadway Books
+14, Bryson's Dictionary of Troublesome Words: A Writer's Guide to Getting It Right, Bill Bryson,3.87,767910435,eng,256,2088,131,9/14/2004,Broadway Books
+15, In a Sunburned Country, Bill Bryson,4.07,767903862,eng,335,72451,4245,5/15/2001,Broadway Books
+16, I'm a Stranger Here Myself: Notes on Returning to America After Twenty Years Away, Bill Bryson,3.9,76790382,eng,304,49240,2211,6/28/2000,Broadway Books
+17, The Lost Continent: Travels in Small Town America, Bill Bryson,3.83,60920084,eng,299,45712,2257,8/28/1990,William Morrow Paperbacks
+18, Neither Here nor There: Travels in Europe, Bill Bryson,3.86,380713802,eng,254,48701,2238,3/28/1993,William Morrow Paperbacks
+19, Notes from a Small Island, Bill Bryson,3.91,380727501,eng,324,80609,3301,5/28/1997,William Morrow Paperbacks
+20, The Mother Tongue: English and How It Got That Way, Bill Bryson,3.93,380715430,eng,270,28489,2085,9/28/1991,William Morrow Paperback
